@@ -3,3 +3,5 @@ software feito com Tkinter para interface gráfica
 
 
 ### PARA GERAR EXECUTAVEL USE O PYINSTALER
+
+pip install pypng
